@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/Users/mohammad.kheirkhah/Desktop/training/ex00/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.notebookEditor.defaultKernel": ".jupyter/kernels/ex00",
+    "python.terminal.activateEnvInSelectedTerminal": true,
+    "jupyter.jupyterServerEndpoint": "http://localhost:8891/?token=62b095475ac226d9b356aa36ae6376afe0434fdba3ad2d0c"
+}
